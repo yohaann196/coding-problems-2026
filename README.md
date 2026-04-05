@@ -1,6 +1,6 @@
 # Coding Problems 2026
 
-A collection of coding problems solved in 2026 from Codewars, sorted by **date solved**.  
+A collection of coding problems solved in 2026, sorted by **date solved**.  
 
 All solutions are written in **JavaScript** and **Python**.
 
